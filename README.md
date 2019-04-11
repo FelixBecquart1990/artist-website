@@ -1,4 +1,4 @@
-# sylvain-becquart
+# artist-website
 
 ## Project setup
 ```
